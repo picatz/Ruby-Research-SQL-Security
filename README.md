@@ -6,7 +6,7 @@ Class work for an SQL Security class where we are asked to build up our own appl
 
 ## Login Page
 
-Generated a silly login page with [Boostrap](http://getbootstrap.com/) and [Validator](http://1000hz.github.io/bootstrap-validator/) along with a little bit of custom javascript to determine if the username and password match the hardcoded values on the page.
+Generated a silly login page with [Bootstrap](http://getbootstrap.com/) and [Validator](http://1000hz.github.io/bootstrap-validator/) along with a little bit of custom javascript to determine if the username and password match the hardcoded values on the page.
 
 #### Security Note
 
@@ -36,7 +36,7 @@ Why no password for the mysql server? Leaving it extra insecure as I build up my
 
 ## XSTRM
 
-Building a total replacement for XAMPP -- I call it XSTRM! XAMPP stands for Cross-Platform (X), Apache (A), MariaDB (M), PHP (P) and Perl (P); and XSTRM stands for Cross-Platform (X), Sinatra (S), Thin (T), Ruby (R) and Mysql (M). All the Ruby all the time ( but then there's that Mysql part... oh well )! No need for the PHP or Perl stuff.
+Building a total replacement for XAMPP -- I call it XSTRM! XAMPP stands for Cross-Platform (X), Apache (A), MariaDB (M), PHP (P) and Perl (P); and XSTRM stands for Cross-Platform (X), Sinatra (S), Thin (T), Ruby (R) and Mysql (M). All the Ruby all the time ( but then there's that Mysql part... oh well )!
 
 #### Running the application.
 
