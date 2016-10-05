@@ -1,0 +1,29 @@
+mysql:
+ verison:
+ install:
+   apt:
+   brew:
+   yum:
+   git:
+thin:
+ verison:
+ install:
+   apt:
+   brew:
+   yum:
+   git:
+sinatra:
+ verison:
+ install:
+   apt:
+   brew:
+   yum:
+   git:
+ruby:
+ verison:
+ install:
+   apt:
+   brew:
+   yum:
+   git:
+

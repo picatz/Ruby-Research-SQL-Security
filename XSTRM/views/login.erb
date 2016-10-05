@@ -1,0 +1,19 @@
+<div class="col-sm-12 text-justify">
+<center><h2 class="form-signin-heading">Very Secure </h2></center>
+&nbsp;
+<% if @failed %>
+	<div class="alert alert-danger">
+		<!-- Get it? <strong>ly worded message lololol -->
+		<strong>Whoa!</strong> Well, that didn't work did it? Don't be a hacker!
+	</div>
+<% end %>
+<form action='/login' method='POST' enctype="multipart/form-data">
+<input type="text" class="form-control" name="user_name" placeholder="Username" required="" autofocus=""/>
+&nbsp;
+<input type="password" class="form-control" name="password" placeholder="Password" required=""/>      
+&nbsp;
+<button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>   
+<a href="/register"  class="btn btn-lg btn-primary btn-block" role="button">Register</a>   
+</form>  
+</div>
+
