@@ -45,3 +45,9 @@ To start the application, just run the app.rb file:
 `ruby app.rb`
 
 ---
+
+## XSTRM SQL Injection
+
+A purposely vulnerable web application built in Ruby which very sillily handles user input.
+
+[![Youtube Demo](http://img.youtube.com/vi/cd1Btha-ujA/0.jpg)](https://www.youtube.com/watch?v=cd1Btha-ujA "Ruby Silly SQL Injection")
